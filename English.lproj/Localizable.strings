@@ -1,0 +1,33 @@
+/* 
+   Localizable.strings
+   HanzConvert
+
+   Created by Lin Fan on 4/27/11.
+   Copyright 2011 Galaworks Studio. All rights reserved.
+ */
+
+"OK" = "OK";
+"CANCEL" = "Cancel";
+"ADD" = "Add";
+"CHOOSE" = "Choose";
+"SAVE" = "Save";
+"CHOOSE_FOLDER" = "Choose folder...";
+"NO_ROOT_FOLDER" = "Selecting root folder is not allowed.";
+"NO_WRITE_PERMISSION" = "You don't have permission to save files in this folder.";
+"NO_WRITE_PERMISSION_OUTPUT" = "You don't have permission to save files in the folder %@.";
+"BAD_SETTINGS" = "Bad settings";
+"NOTNEED_CONVERT" = "Converting without changing encoding and character set is not needed.";
+"BIG5_ONLY_TRAD" = "Only traditional character set is available for BIG-5 encoding.";
+"ERR_OUTPUT_FOLDER" = "Can't create output folder";
+"ERR_OUTPUT_FILE" = "Can't create output file";
+"CONVERT_ERROR_TITLE" = "Bad News";
+"CONVERT_ERROR" = "Not all files were converted successfully, please check convert settings.";
+"CONVERT_SUCCESS_TITLE" = "Finished";
+"CONVERT_SUCCESS" = "All files were converted successfully.";
+"CLEAR_CONFIRM" = "Make sure to delete all backup files.";
+"DELETE" = "Delete";
+"CONFIRM" = "Confirm";
+
+"VERSION" = "Version";
+"COPYRIGHT" = "Copyright © 2010-%d Galaworks.";
+"HELP_URL" = "http://itunes.apple.com/us/app/hanzconvert/id442107196?mt=12";

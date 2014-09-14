@@ -1,0 +1,33 @@
+/* 
+   Localizable.strings
+   HanzConvert
+
+   Created by Lin Fan on 4/27/11.
+   Copyright 2011 Galaworks Studio. All rights reserved.
+ */
+
+"OK" = "好";
+"CANCEL" = "取消";
+"ADD" = "添加";
+"CHOOSE" = "选择";
+"SAVE" = "存储";
+"CHOOSE_FOLDER" = "选择输出目录...";
+"NO_ROOT_FOLDER" = "不允许选择系统根目录。";
+"NO_WRITE_PERMISSION" = "您没有权限存储文件到本目录中。";
+"NO_WRITE_PERMISSION_OUTPUT" = "您没有权限存储文件到目录%@。";
+"BAD_SETTINGS" = "错误的设置";
+"NOTNEED_CONVERT" = "设置无效，即未设置改变文件编码，也未设置进行简繁转换。";
+"BIG5_ONLY_TRAD" = "BIG-5编码只能支持繁体字符。";
+"ERR_OUTPUT_FOLDER" = "无法创建输出目录";
+"ERR_OUTPUT_FILE" = "无法创建输出文件";
+"CONVERT_ERROR_TITLE" = "糟糕";
+"CONVERT_ERROR" = "并非所有文件都转换成功，请检查转换设置。";
+"CONVERT_SUCCESS_TITLE" = "完成";
+"CONVERT_SUCCESS" = "所有文件都已成功转换。";
+"CLEAR_CONFIRM" = "确实要删除所有备份文件吗?";
+"DELETE" = "删除";
+"CONFIRM" = "确认";
+
+"VERSION" = "版本";
+"COPYRIGHT" = "版权所有 © 2010-%d Galaworks。";
+"HELP_URL" = "http://itunes.apple.com/cn/app/hanzconvert/id442107196?mt=12";
